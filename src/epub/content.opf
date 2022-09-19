@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jefferey-e-jeffery</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jeffery-e-jeffery_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -46,7 +46,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jefferey-e-jeffery</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
 		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
@@ -65,12 +65,42 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Storm_Jameson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n50028993</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-3">Jefferey E. Jeffery</dc:contributor>
-		<meta property="file-as" refines="#translator-3">Jeffery, Jefferey E.</meta>
+		<dc:contributor id="translator-3">Jeffery E. Jeffery</dc:contributor>
+		<meta property="file-as" refines="#translator-3">Jeffery, Jeffery E.</meta>
 		<meta property="se:name.person.full-name" refines="#translator-3">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">CONTRIBUTOR_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">M. Walter Dunne</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Dunne, M. Walter</meta>
+		<meta property="se:name.person.full-name" refines="#translator-4">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-5">Henry C. Olinger</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Olinger, Henry C.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-5">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-5">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-6">Albert M. Cohn-McMaster</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Cohn-McMaster, Albert M.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-6">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-6">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-7">Dora Knowlton Ranous</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Ranous, Dora Knowlton</meta>
+		<meta property="se:name.person.full-name" refines="#translator-7">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">https://en.wikipedia.org/wiki/Dora_Knowlton_Ranous</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-8">Bigelow, Brown &amp; Co., Inc.</dc:contributor>
+		<meta property="file-as" refines="#translator-8">Inc., Bigelow, Brown &amp; Co.,</meta>
+		<meta property="se:name.person.full-name" refines="#translator-8">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
