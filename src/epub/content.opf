@@ -28,20 +28,67 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Short stories, French--Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh2010113036</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of short stories by Guy de Maupassant, in order of date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:language>en-GB</dc:language>
+		<!-- SCANS -->
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v1 -->
+		<!-- Boule de Suif, Madame Tellier's Establishment, Story of a Farm Girl, A Country Excursion, Simon's Father, A Family Affair, On the River, Paul's Mistress, The Dead Hand, At the Church Door, Lieutenant Lare's Marriage -->
+		<dc:source>https://books.google.com/books?id=wJY4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v2 -->
+		<!-- My Wife, A Grandmother's Advice, In the Spring, Graveyard Sirens, Madame Baptiste, Rust, Marroca, The Log, The Relic, The Bed, Mad?, An Artifice, On Horseback, The Burglar, A Christmas Eve Festival, Words of Love, An Adventure in Paris, Two Friends, Christmas Eve, The Substitute, Monsieur Jocaste, Pierrot, The Funeral Pile -->
+		<dc:source>https://books.google.com/books?id=9pY4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v3 -->
+		<!-- That Pig Morin, The Snipe, The Mad Woman, The Will, At Sea, A Norman, In the Country, A Cock Crowed, A Son, Saint Anthony, Walter Schnaff's Adventure, The Tomb, A Traveller's Notes, In the Moonlight, A Coup d'État, Moiron, Queen Hortense, The Child, The Pardon, The Wolf, The Legend of Mont Saint-Michel, A Christmas Tale, A Widow, Mademoiselle Cocotte, The Jewels, An Apparition, The Door, The Father, Our Letters, Night, Travelling -->
+		<dc:source>https://books.google.com/books?id=PJc4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v5 -->
+		<!-- The Sisters Rondoli, My Landlady, The Little Cask, André's Disease, He?, My Uncle Sosthene, The Accursed Bread, Madame Luneau's Case, A Wise Man, The Umbrella, A Meeting, Decorated, Châli, The Legacy -->
+		<dc:source>https://books.google.com/books?id=6pc4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v6 -->
+		<!-- Miss Harriet, The Lock, Suicides, The Kiss, Denis, The Donkey, An Idyll, The String, Waiter A Bock, Regret, My Uncle Jules, On the Journey, Mother Savage, The Orient, A Million, Friend Patience, The Dowry, Feminine Men, The Moustache, The Patron, The Closet, Room No. Eleven -->
+		<dc:source>https://books.google.com/books?id=R5g4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v8 -->
+		<!-- Yvette, Our Friends the English, Roger's Method, The Christening, The Confession, The Mother of Monsters, Father Judas, Théodule Sabot's Confession, The Return, The Castaway, What the Colonel Thought, A Walk, Mohammed-Fripouille, The Keeper, Berthe, Misti, Old Boniface's Crime, Rose -->
+		<dc:source>https://books.google.com/books?id=LZk4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v9 -->
+		<!-- The Father, Confessing, The Necklace, Happiness, The Old Man, A Coward, The Drunkard, A Vendetta, Coco, The Hand, The Tramp, A Parricide, The Little One, Guillemot Rock, Timbuctoo, A True Story, Farewell, A Memory, The Confession, A Humble Drama, Mister Belhomme's Beast, For Sale, The Unknown, The Secret, The Christening, Indiscretion, A Madman -->
+		<dc:source>https://books.google.com/books?id=e5k4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v10 -->
+		<!-- Little Roque, Monsieur Parent, Country Courts, The Hairpin, The Woodcocks, In a Railway Carriage, Ça Ira, Unmasked, Solitude, Beside the Bed, The Little Soldier, The Wreck, The Hermit, Mademoiselle Pearl, Rosalie Prudent, Saved -->
+		<dc:source>https://books.google.com/books?id=35k4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v12 -->
+		<!-- Madame Parisse, Julie Romain, Old Amable, Caresses, The Horla, Love, The Hole, Clochette, The Marquis of Fumerol, The Sigh, The Devil, Epiphany, A Family, In the Wood, Joseph, The Inn, The Tramp, Mad, Fear -->
+		<dc:source>https://books.google.com/books?id=W5o4AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v14 -->
+		<!-- Madame Husson's May King, Checkmate, Hydrophobia?, The Model, The Baroness, A Sale, The Assassin, Martin's Girl, One Night's Entertainment, The Confession, Divorce, The Revenge, The Odyssey of a Prostitute, The Window, The Olive Orchard, Mouche, The Drowned Man, The Test, The Mask -->
+		<dc:source>https://books.google.com/books?id=jp04AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v16 -->
+		<!-- Useless Beauty, A Portrait, The Cripple, The Mother Superior's 25 Francs, A Divorce Case, Who Knows?, Alexander, Allouma, Hautot and His Son, Boitelle, The Orderly, The Rabbit, One Evening, The Rival Pins, Duchoux, The Rendezvous, In Port, The Dead Woman, The Putter-to-Sleep, Madame Hermet -->
+		<dc:source>https://books.google.com/books?id=6504AQAAIAAJ</dc:source>
+		<!-- The Collected Novels and Stories of Guy de Maupassant, v18 -->
+		<!-- The Pedlar, After, Moonlight, Old Milon, A New Year's Gift, A Cry of Alarm, The Farmer, The Blind Man, The Cake, Magnetism, A Corsican Bandit, Dreams, A Woman's Confession, A Reckless Passion, Correspondence, Artfulness, Friend Joseph, The Orphan, Beside a Dead Man, The Greenhouse, A Duel, A Party, Suspense, The First Fall of Snow, Practical Jokes, Letter Found on a Drowned Man, Horrible, Nerves, My Twenty-Five Days, Are We to Teach Latin?, Finis -->
+		<dc:source>https://books.google.com/books?id=YJ44AQAAIAAJ</dc:source>
+		<!-- Doctor Heraclius Gloss, Jeffery E. Jeffery -->
+		<dc:source>https://books.google.com/books?id=nHZEAAAAIAAJ</dc:source>
+		<!-- Saint Anthony, and Other Stories, Lafcadio Hearn -->
+		<!-- 'Toine -->
+		<dc:source>https://catalog.hathitrust.org/Record/001213437</dc:source>
+		<!-- The Works of Guy de Maupassant -->
+		<!-- Mother and Daughter (v5), A Dead Woman's Secret (v8), Relics of the Past (v8), The Avenger (v8), Blue and White (v10), The Log-Book (v10) -->
+		<dc:source>https://catalog.hathitrust.org/Record/101925686</dc:source>
+		<!-- The Complete Writings of Guy de Maupassant -->
+		<!-- Les Dimanches d'Un Bourgeois (v15), Military Honors (v15), On Cats (v16) -->
+		<dc:source>https://catalog.hathitrust.org/Record/011254238</dc:source>
+		<!-- The Complete Works of Guy de Maupassant -->
+		<!-- The Shepherd's Leap (v1) -->
+		<dc:source>https://catalog.hathitrust.org/Record/100643388</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -49,75 +96,59 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
 		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Henri René Albert Guy de Maupassant</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Guy_de_Maupassant</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79069916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Ernest Boyd</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Boyd, Ernest</meta>
-		<meta property="se:name.person.full-name" refines="#translator-1">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">Ernest Augustus Boyd</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50043133</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Storm Jameson</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Jameson, Storm</meta>
-		<meta property="se:name.person.full-name" refines="#translator-2">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#translator-2">Margaret Ethel Storm Jameson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Storm_Jameson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n50028993</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Jeffery E. Jeffery</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Jeffery, Jeffery E.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-3">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-3">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator-3">Jeffery Eardley Jeffery</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/nr97024840</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">M. Walter Dunne</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Dunne, M. Walter</meta>
-		<meta property="se:name.person.full-name" refines="#translator-4">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-4">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/no2015120440</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">Henry C. Olinger</dc:contributor>
 		<meta property="file-as" refines="#translator-5">Olinger, Henry C.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-5">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-5">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-6">Albert M. Cohn-McMaster</dc:contributor>
 		<meta property="file-as" refines="#translator-6">Cohn-McMaster, Albert M.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-6">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-6">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator-6">Albert Marian Cohn-McMaster</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-7">Dora Knowlton Ranous</dc:contributor>
 		<meta property="file-as" refines="#translator-7">Ranous, Dora Knowlton</meta>
-		<meta property="se:name.person.full-name" refines="#translator-7">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">https://en.wikipedia.org/wiki/Dora_Knowlton_Ranous</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-7">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/no2002036414</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-8">Bigelow, Brown &amp; Co., Inc.</dc:contributor>
 		<meta property="file-as" refines="#translator-8">Inc., Bigelow, Brown &amp; Co.,</meta>
-		<meta property="se:name.person.full-name" refines="#translator-8">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-8">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
