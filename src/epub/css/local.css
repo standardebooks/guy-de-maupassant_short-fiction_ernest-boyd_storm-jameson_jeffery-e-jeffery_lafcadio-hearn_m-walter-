@@ -83,10 +83,29 @@ span.elision{
 }
 /* end of poem/verse/song */
 
-[epub|type~="z3998:diary-entry"]{
-	margin-bottom: 1em;
+/* blockquote in non-English */
+blockquote[xml|lang]{
+        font-style: italic;
 }
 
+/* diary entries */
+[epub|type~="z3998:diary-entry"]{
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+/* several stories are self-contained letters so no blockquote and no header */
+[epub|type~="se:letter.dateline"],
+p[epub|type~="se:diary.dateline"]{
+	text-align: right;
+}
+
+/* salutations in headers should not be right-aligned */
+header p[epub|type~="z3998:salutation"]{
+	text-align: initial;
+}
+
+/* location-specific */
 #madame-telliers-establishment blockquote:first-of-type{
 	font-style: italic;
 	text-align: center;
@@ -97,11 +116,18 @@ span.elision{
 	text-align: right;
 }
 
-/* locations-specific */
+#my-twenty-five-days header p,
 #the-farmer blockquote p,
 #the-patron blockquote header p,
 #timbuctoo blockquote p{
 	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+#the-relic p[epub|type~="z3998:recipient"]{
+	font-style: italic;
+	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
 }
