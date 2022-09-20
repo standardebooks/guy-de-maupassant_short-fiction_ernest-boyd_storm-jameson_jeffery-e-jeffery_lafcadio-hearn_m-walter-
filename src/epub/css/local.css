@@ -130,13 +130,17 @@ header p[epub|type~="z3998:salutation"]{
 }
 
 #the-relic p[epub|type~="z3998:recipient"]{
-	font-style: italic;
 	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
 }
 
-#letter-found-on-a-drowned-man blockquote{
+#the-relic p[epub|type~="z3998:salutation"]{
+	text-indent: 0;
+}
+
+#letter-found-on-a-drowned-man blockquote,
+#words-of-love blockquote[epub|type~="z3998:letter"]{
 	margin-left: 0;
 	margin-right: 0;
 }
