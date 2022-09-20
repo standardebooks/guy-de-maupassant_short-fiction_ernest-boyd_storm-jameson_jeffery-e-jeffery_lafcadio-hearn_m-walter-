@@ -89,15 +89,18 @@ blockquote[xml|lang]{
 }
 
 /* diary entries */
-[epub|type~="z3998:diary-entry"]{
-	margin-bottom: 1em;
+p[epub|type~="z3998:diary-entry"]{
 	margin-top: 1em;
+	text-indent: 0;
 }
 
-/* several stories are self-contained letters so no blockquote and no header */
 [epub|type~="se:letter.dateline"],
 p[epub|type~="se:diary.dateline"]{
 	text-align: right;
+}
+
+[epub|type~="se:diary.dateline"]{
+	font-style: italic;
 }
 
 /* salutations in headers should not be right-aligned */
@@ -116,6 +119,7 @@ header p[epub|type~="z3998:salutation"]{
 	text-align: right;
 }
 
+#a-madman blockquote header p,
 #my-twenty-five-days header p,
 #the-farmer blockquote p,
 #the-patron blockquote header p,
@@ -130,4 +134,9 @@ header p[epub|type~="z3998:salutation"]{
 	margin-bottom: 1em;
 	text-align: center;
 	text-indent: 0;
+}
+
+#letter-found-on-a-drowned-man blockquote{
+	margin-left: 0;
+	margin-right: 0;
 }
