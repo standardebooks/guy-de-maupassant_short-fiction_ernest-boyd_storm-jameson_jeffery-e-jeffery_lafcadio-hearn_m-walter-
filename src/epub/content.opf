@@ -244,6 +244,7 @@
 		<item href="text/friend-patience.xhtml" id="friend-patience.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/graveyard-sirens.xhtml" id="graveyard-sirens.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/guillemot-rock.xhtml" id="guillemot-rock.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/happiness.xhtml" id="happiness.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hautot-and-his-son.xhtml" id="hautot-and-his-son.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/he.xhtml" id="he.xhtml" media-type="application/xhtml+xml"/>
@@ -379,8 +380,8 @@
 		<item href="text/the-little-one.xhtml" id="the-little-one.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-soldier.xhtml" id="the-little-soldier.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lock.xhtml" id="the-lock.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-log-book.xhtml" id="the-log-book.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-log.xhtml" id="the-log.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-logbook.xhtml" id="the-logbook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mad-woman.xhtml" id="the-mad-woman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-marquis-of-fumerol.xhtml" id="the-marquis-of-fumerol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mask.xhtml" id="the-mask.xhtml" media-type="application/xhtml+xml"/>
@@ -444,6 +445,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="boule-de-suif.xhtml"/>
 		<itemref idref="mademoiselle-cocotte.xhtml"/>
 		<itemref idref="story-of-a-farm-girl.xhtml"/>
