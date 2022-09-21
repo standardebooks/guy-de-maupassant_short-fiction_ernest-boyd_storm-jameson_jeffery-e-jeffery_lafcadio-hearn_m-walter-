@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 890">
-	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Guy de Maupassant. Translated by Ernest Boyd, Storm Jameson, Jeffery E. Jeffery, M. Walter Dunne, Henry C. Olinger, Albert M. Cohn-McMaster, Dora Knowlton Ranous, and Bigelow, Brown &amp; Co., Inc.</title>
+	<title>The titlepage for the Standard Ebooks edition of Short Fiction, by Guy de Maupassant. Translated by Ernest Boyd, Storm Jameson, Jeffery E. Jeffery, Lafcadio Hearn, M. Walter Dunne, Henry C. Olinger, Albert M. Cohn-McMaster, Dora Knowlton Ranous, and Bigelow, Brown &amp; Co., Inc.</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -30,8 +30,8 @@
 	<text class="title" x="700" y="130">SHORT FICTION</text>
 	<text class="author" x="700" y="290">GUY DE MAUPASSANT</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">ERNEST BOYD,</text>
-	<text class="contributor" x="700" y="600">STORM JAMESON, JEFFERY E. JEFFERY,</text>
+	<text class="contributor" x="700" y="540">ERNEST BOYD, STORM JAMESON,</text>
+	<text class="contributor" x="700" y="600">JEFFERY E. JEFFERY, LAFCADIO HEARN,</text>
 	<text class="contributor" x="700" y="660">M. WALTER DUNNE, HENRY C. OLINGER,</text>
 	<text class="contributor" x="700" y="720">ALBERT M. COHN-MCMASTER,</text>
 	<text class="contributor" x="700" y="780">DORA KNOWLTON RANOUS,</text>

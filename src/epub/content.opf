@@ -93,7 +93,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
 		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
 		<meta property="se:name.person.full-name" refines="#author">Henri René Albert Guy de Maupassant</meta>
