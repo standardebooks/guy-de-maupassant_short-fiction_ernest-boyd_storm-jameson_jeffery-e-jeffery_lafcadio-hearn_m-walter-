@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jeffery-e-jeffery_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/guy-de-maupassant/short-fiction/ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -79,7 +79,7 @@
 		<dc:source>https://books.google.com/books?id=nHZEAAAAIAAJ</dc:source>
 		<!-- Saint Anthony, and Other Stories, Lafcadio Hearn -->
 		<!-- 'Toine -->
-		<dc:source>https://catalog.hathitrust.org/Record/001213437</dc:source>
+		<dc:source>https://books.google.com/books?id=VMRcAAAAMAAJ</dc:source>
 		<!-- The Works of Guy de Maupassant -->
 		<!-- Mother and Daughter (v5), A Dead Woman's Secret (v8), Relics of the Past (v8), The Avenger (v8), Blue and White (v10), The Log-Book (v10) -->
 		<dc:source>https://catalog.hathitrust.org/Record/101925686</dc:source>
@@ -93,13 +93,18 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-dunne_henry-c-olinger_albert-m-cohn-mcmaster_dora-knowlton-ranous_bigelow-brown-co-inc</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
 		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
 		<meta property="se:name.person.full-name" refines="#author">Henri René Albert Guy de Maupassant</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Guy_de_Maupassant</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79069916</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="writer-of-introduction">Henry James</dc:contributor>
+		<meta property="file-as" refines="#writer-of-introduction">James, Henry</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-introduction">https://en.wikipedia.org/wiki/Henry_James</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-introduction">http://id.loc.gov/authorities/names/n78091982</meta>
+		<meta property="role" refines="#writer-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="translator-1">Ernest Boyd</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Boyd, Ernest</meta>
 		<meta property="se:name.person.full-name" refines="#translator-1">Ernest Augustus Boyd</meta>
@@ -116,25 +121,31 @@
 		<meta property="se:name.person.full-name" refines="#translator-3">Jeffery Eardley Jeffery</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/nr97024840</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-4">M. Walter Dunne</dc:contributor>
-		<meta property="file-as" refines="#translator-4">Dunne, M. Walter</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/no2015120440</meta>
+		<dc:contributor id="translator-4">Lafcadio Hearn</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Hearn, Lafcadio</meta>
+		<meta property="se:name.person.full-name" refines="#translator-4">Patrick Lafcadio Hearn</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Lafcadio_Hearn</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n79073520</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-5">Henry C. Olinger</dc:contributor>
-		<meta property="file-as" refines="#translator-5">Olinger, Henry C.</meta>
+		<dc:contributor id="translator-5">M. Walter Dunne</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Dunne, M. Walter</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/no2015120440</meta>
 		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-6">Albert M. Cohn-McMaster</dc:contributor>
-		<meta property="file-as" refines="#translator-6">Cohn-McMaster, Albert M.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-6">Albert Marian Cohn-McMaster</meta>
+		<dc:contributor id="translator-6">Henry C. Olinger</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Olinger, Henry C.</meta>
 		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-7">Dora Knowlton Ranous</dc:contributor>
-		<meta property="file-as" refines="#translator-7">Ranous, Dora Knowlton</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">https://en.wikipedia.org/wiki/Dora_Knowlton_Ranous</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-7">http://id.loc.gov/authorities/names/no2002036414</meta>
+		<dc:contributor id="translator-7">Albert M. Cohn-McMaster</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Cohn-McMaster, Albert M.</meta>
+		<meta property="se:name.person.full-name" refines="#translator-7">Albert Marian Cohn-McMaster</meta>
 		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-8">Bigelow, Brown &amp; Co., Inc.</dc:contributor>
-		<meta property="file-as" refines="#translator-8">Inc., Bigelow, Brown &amp; Co.,</meta>
+		<dc:contributor id="translator-8">Dora Knowlton Ranous</dc:contributor>
+		<meta property="file-as" refines="#translator-8">Ranous, Dora Knowlton</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/Dora_Knowlton_Ranous</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">http://id.loc.gov/authorities/names/no2002036414</meta>
 		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-9">Bigelow, Brown &amp; Co., Inc.</dc:contributor>
+		<meta property="file-as" refines="#translator-9">Inc., Bigelow, Brown &amp; Co.,</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Paul Cézanne</dc:contributor>
 		<meta property="file-as" refines="#artist">Cézenne, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Paul_Cézanne</meta>
