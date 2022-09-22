@@ -462,7 +462,7 @@
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="boule-de-suif.xhtml"/>
-		<itemref idref="mademoiselle-cocotte.xhtml"/>
+		<itemref idref="madame-telliers-establishment.xhtml"/>
 		<itemref idref="story-of-a-farm-girl.xhtml"/>
 		<itemref idref="a-country-excursion.xhtml"/>
 		<itemref idref="simons-father.xhtml"/>
@@ -526,7 +526,7 @@
 		<itemref idref="the-legend-of-mont-saint-michel.xhtml"/>
 		<itemref idref="a-christmas-tale.xhtml"/>
 		<itemref idref="a-widow.xhtml"/>
-		<itemref idref="madame-hermet.xhtml"/>
+		<itemref idref="mademoiselle-cocotte.xhtml"/>
 		<itemref idref="the-jewels.xhtml"/>
 		<itemref idref="an-apparition.xhtml"/>
 		<itemref idref="the-door.xhtml"/>
@@ -541,7 +541,7 @@
 		<itemref idref="he.xhtml"/>
 		<itemref idref="my-uncle-sosthene.xhtml"/>
 		<itemref idref="the-accursed-bread.xhtml"/>
-		<itemref idref="madame-parisse.xhtml"/>
+		<itemref idref="madame-luneaus-case.xhtml"/>
 		<itemref idref="a-wise-man.xhtml"/>
 		<itemref idref="the-umbrella.xhtml"/>
 		<itemref idref="a-meeting.xhtml"/>
@@ -635,7 +635,7 @@
 		<itemref idref="saved.xhtml"/>
 		<itemref idref="the-little-soldier.xhtml"/>
 		<itemref idref="the-wreck.xhtml"/>
-		<itemref idref="madame-telliers-establishment.xhtml"/>
+		<itemref idref="madame-parisse.xhtml"/>
 		<itemref idref="julie-romain.xhtml"/>
 		<itemref idref="old-amable.xhtml"/>
 		<itemref idref="caresses.xhtml"/>
@@ -654,7 +654,7 @@
 		<itemref idref="the-tramp-2.xhtml"/>
 		<itemref idref="mad-2.xhtml"/>
 		<itemref idref="fear-2.xhtml"/>
-		<itemref idref="madame-luneaus-case.xhtml"/>
+		<itemref idref="madame-hussons-may-king.xhtml"/>
 		<itemref idref="checkmate.xhtml"/>
 		<itemref idref="hydrophobia.xhtml"/>
 		<itemref idref="the-model.xhtml"/>
@@ -692,7 +692,7 @@
 		<itemref idref="in-port.xhtml"/>
 		<itemref idref="the-dead-woman.xhtml"/>
 		<itemref idref="the-putter-to-sleep.xhtml"/>
-		<itemref idref="madame-hussons-may-king.xhtml"/>
+		<itemref idref="madame-hermet.xhtml"/>
 		<itemref idref="the-pedlar.xhtml"/>
 		<itemref idref="after.xhtml"/>
 		<itemref idref="moonlight.xhtml"/>
