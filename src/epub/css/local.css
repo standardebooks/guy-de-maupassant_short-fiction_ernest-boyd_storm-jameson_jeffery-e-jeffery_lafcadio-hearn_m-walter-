@@ -113,6 +113,10 @@ header p[epub|type~="z3998:salutation"]{
 }
 
 /* location-specific */
+#doctor-heraclius-gloss-6 header{
+	font-variant: small-caps;
+}
+
 #madame-telliers-establishment blockquote:first-of-type{
 	font-style: italic;
 	text-align: center;
