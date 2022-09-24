@@ -95,7 +95,7 @@
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/List_of_short_stories_by_Guy_de_Maupassant</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/guy-de-maupassant_short-fiction_ernest-boyd_storm-jameson_jeffery-e-jeffery_lafcadio-hearn_m-walter-</meta>
 		<dc:creator id="author">Guy de Maupassant</dc:creator>
 		<meta property="file-as" refines="#author">Maupassant, Guy de</meta>
@@ -113,6 +113,7 @@
 		<meta property="se:name.person.full-name" refines="#translator-1">Ernest Augustus Boyd</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50043133</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<meta property="se:role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Storm Jameson</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Jameson, Storm</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Margaret Ethel Storm Jameson</meta>
@@ -124,6 +125,7 @@
 		<meta property="se:name.person.full-name" refines="#translator-3">Jeffery Eardley Jeffery</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/nr97024840</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<meta property="se:role" refines="#translator-3" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-4">Lafcadio Hearn</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Hearn, Lafcadio</meta>
 		<meta property="se:name.person.full-name" refines="#translator-4">Patrick Lafcadio Hearn</meta>
