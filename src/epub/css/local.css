@@ -83,6 +83,10 @@ span.elision{
 }
 /* end of poem/verse/song */
 
+table{
+	margin: 1em auto;
+}
+
 /* blockquote in non-English */
 blockquote[xml|lang]{
 	font-style: italic;
@@ -113,8 +117,20 @@ header p[epub|type~="z3998:salutation"]{
 }
 
 /* location-specific */
-#doctor-heraclius-gloss-6 header{
+#doctor-heraclius-gloss-6 blockquote header{
 	font-variant: small-caps;
+}
+
+#madame-hussons-may-king table{
+	margin: .5em 0 .5em 2em;
+}
+
+#madame-hussons-may-king table td:first-child{
+	column-width: 10em;
+}
+
+#madame-hussons-may-king table + p{
+	text-indent: 0;
 }
 
 #madame-telliers-establishment blockquote:first-of-type{
@@ -143,7 +159,9 @@ header p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
-#the-relic p[epub|type~="z3998:salutation"]{
+#the-moustache p[epub|type~="z3998:salutation"],
+#the-relic p[epub|type~="z3998:salutation"],
+#travelling p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
