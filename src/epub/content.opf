@@ -96,6 +96,12 @@
 		<!-- Selected Poems, Victor Hugo, v3p327 -->
 		<!-- Oceano Nox, Victor Hugo, from "On the River" -->
 		<dc:source>https://catalog.hathitrust.org/Record/100708703</dc:source>
+		<!-- Complete Writings of Alfred Musset, v2p308 -->
+		<!-- La nuit de mai (The Night of May) -->
+		<dc:source>https://archive.org/details/completewritings02mussiala</dc:source>
+		<!-- Poems of Baudelaire (translation of Les fleurs du mal) -->
+		<!-- L’Amour du mensonge (Love of Lies) -->
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.459801</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
