@@ -37,6 +37,65 @@ footer{
 }
 /* end of letters */
 
+/* plays/drama */
+table[epub|type~="z3998:drama"]{
+	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
+}
+
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
+}
+
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
+	padding: .5em;
+	vertical-align: top;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	hyphens: none;
+	-epub-hyphens: none;
+	text-align: right;
+	width: 20%;
+}
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
+i [epub|type~="z3998:persona"]{
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::before{
+	content: "(";
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::after{
+	content: ")";
+	font-style: normal;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
+}
+/* end of plays/drama */
+
 /* poem/verse/song */
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
@@ -71,8 +130,8 @@ p span.i2{
 	text-indent: -1em;
 }
 
-p span.i6{
-	padding-left: 7em;
+p span.i4{
+	padding-left: 5em;
 	text-indent: -1em;
 }
 
@@ -83,11 +142,17 @@ span.elision{
 }
 /* end of poem/verse/song */
 
+/* quotes */
+q {
+	font-style: italic;
+}
+
+/* standard SE table margins */
 table{
 	margin: 1em auto;
 }
 
-/* blockquote in non-English */
+/* Non-English blockquotes */
 blockquote[xml|lang]{
 	font-style: italic;
 }
@@ -102,13 +167,14 @@ p[epub|type~="z3998:diary-entry"]{
 	text-indent: 0;
 }
 
-[epub|type~="se:letter.dateline"],
-p[epub|type~="se:diary.dateline"]{
-	text-align: right;
-}
-
 [epub|type~="se:diary.dateline"]{
 	font-style: italic;
+}
+
+p[epub|type~="se:diary.dateline"],
+[epub|type~="se:letter.dateline"],
+#at-sea header{
+	text-align: right;
 }
 
 /* salutations in headers should not be right-aligned */
@@ -117,6 +183,11 @@ header p[epub|type~="z3998:salutation"]{
 }
 
 /* location-specific */
+#a-divorce-case blockquote header{
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
 #doctor-heraclius-gloss-6 blockquote header{
 	font-variant: small-caps;
 }
@@ -135,7 +206,6 @@ header p[epub|type~="z3998:salutation"]{
 
 #madame-telliers-establishment blockquote:first-of-type{
 	font-style: italic;
-	text-align: center;
 }
 
 #on-cats p:first-of-type{
@@ -147,7 +217,7 @@ header p[epub|type~="z3998:salutation"]{
 #my-twenty-five-days header p,
 #the-farmer blockquote p,
 #the-patron blockquote header p,
-#timbuctoo blockquote p{
+#timbuktu blockquote p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
@@ -165,8 +235,22 @@ header p[epub|type~="z3998:salutation"]{
 	text-indent: 0;
 }
 
-#letter-found-on-a-drowned-man blockquote,
+#a-cry-of-alarm blockquote[epub|type~="z3998:letter"],
+#caresses blockquote[epub|type~="z3998:letter"],
+#correspondence blockquote[epub|type~="z3998:letter"],
+#letter-found-on-a-drowned-man blockquote[epub|type~="z3998:letter"],
 #words-of-love blockquote[epub|type~="z3998:letter"]{
 	margin-left: 0;
 	margin-right: 0;
+}
+
+#the-revenge p[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	text-indent: 1em;
+}
+
+#the-revenge-1 p:nth-of-type(2){
+	text-indent: 0;
 }
