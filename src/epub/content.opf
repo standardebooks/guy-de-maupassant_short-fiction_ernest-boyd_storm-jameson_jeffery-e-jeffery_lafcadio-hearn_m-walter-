@@ -407,7 +407,6 @@
 		<item href="text/the-little-soldier.xhtml" id="the-little-soldier.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-lock.xhtml" id="the-lock.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-log.xhtml" id="the-log.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-logbook.xhtml" id="the-logbook.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mad-woman.xhtml" id="the-mad-woman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-marquis-of-fumerol.xhtml" id="the-marquis-of-fumerol.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-mask.xhtml" id="the-mask.xhtml" media-type="application/xhtml+xml"/>
@@ -473,281 +472,554 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="boule-de-suif.xhtml"/>
-		<itemref idref="madame-telliers-establishment.xhtml"/>
-		<itemref idref="story-of-a-farm-girl.xhtml"/>
-		<itemref idref="a-country-excursion.xhtml"/>
-		<itemref idref="simons-father.xhtml"/>
-		<itemref idref="a-family-affair.xhtml"/>
-		<itemref idref="on-the-river.xhtml"/>
-		<itemref idref="pauls-mistress.xhtml"/>
-		<itemref idref="the-dead-hand.xhtml"/>
-		<itemref idref="at-the-church-door.xhtml"/>
-		<itemref idref="lieutenant-lares-marriage.xhtml"/>
-		<itemref idref="mademoiselle-fifi.xhtml"/>
-		<itemref idref="my-wife.xhtml"/>
-		<itemref idref="a-grandmothers-advice.xhtml"/>
-		<itemref idref="in-the-spring.xhtml"/>
-		<itemref idref="graveyard-sirens.xhtml"/>
-		<itemref idref="madame-baptiste.xhtml"/>
-		<itemref idref="rust.xhtml"/>
-		<itemref idref="marroca.xhtml"/>
-		<itemref idref="the-log.xhtml"/>
-		<itemref idref="the-relic.xhtml"/>
-		<itemref idref="the-bed.xhtml"/>
-		<itemref idref="mad.xhtml"/>
-		<itemref idref="the-awakening.xhtml"/>
-		<itemref idref="an-artifice.xhtml"/>
-		<itemref idref="on-horseback.xhtml"/>
-		<itemref idref="the-burglar.xhtml"/>
-		<itemref idref="a-christmas-eve-festival.xhtml"/>
-		<itemref idref="words-of-love.xhtml"/>
-		<itemref idref="an-adventure-in-paris.xhtml"/>
-		<itemref idref="two-friends.xhtml"/>
-		<itemref idref="christmas-eve.xhtml"/>
-		<itemref idref="the-substitute.xhtml"/>
-		<itemref idref="monsieur-jocaste.xhtml"/>
-		<itemref idref="pierrot.xhtml"/>
-		<itemref idref="minuet.xhtml"/>
-		<itemref idref="fear.xhtml"/>
-		<itemref idref="a-normandy-joke.xhtml"/>
-		<itemref idref="the-wooden-shoes.xhtml"/>
-		<itemref idref="the-chair-mender.xhtml"/>
-		<itemref idref="the-child-2.xhtml"/>
-		<itemref idref="the-funeral-pile.xhtml"/>
-		<itemref idref="that-pig-morin.xhtml"/>
-		<itemref idref="the-snipe.xhtml"/>
-		<itemref idref="the-mad-woman.xhtml"/>
-		<itemref idref="the-will.xhtml"/>
-		<itemref idref="at-sea.xhtml"/>
-		<itemref idref="a-norman.xhtml"/>
-		<itemref idref="in-the-country.xhtml"/>
-		<itemref idref="a-cock-crowed.xhtml"/>
-		<itemref idref="a-son.xhtml"/>
-		<itemref idref="saint-anthony.xhtml"/>
-		<itemref idref="walter-schnaffs-adventure.xhtml"/>
-		<itemref idref="the-tomb.xhtml"/>
-		<itemref idref="a-travellers-notes.xhtml"/>
-		<itemref idref="in-the-moonlight.xhtml"/>
-		<itemref idref="a-coup-detat.xhtml"/>
-		<itemref idref="moiron.xhtml"/>
-		<itemref idref="queen-hortense.xhtml"/>
-		<itemref idref="the-child.xhtml"/>
-		<itemref idref="the-pardon.xhtml"/>
-		<itemref idref="the-wolf.xhtml"/>
-		<itemref idref="the-legend-of-mont-saint-michel.xhtml"/>
-		<itemref idref="a-christmas-tale.xhtml"/>
-		<itemref idref="a-widow.xhtml"/>
-		<itemref idref="mademoiselle-cocotte.xhtml"/>
-		<itemref idref="the-jewels.xhtml"/>
-		<itemref idref="an-apparition.xhtml"/>
-		<itemref idref="the-door.xhtml"/>
-		<itemref idref="the-father-2.xhtml"/>
-		<itemref idref="our-letters.xhtml"/>
-		<itemref idref="night.xhtml"/>
-		<itemref idref="travelling.xhtml"/>
-		<itemref idref="the-sisters-rondoli.xhtml"/>
-		<itemref idref="my-landlady.xhtml"/>
-		<itemref idref="the-little-cask.xhtml"/>
-		<itemref idref="andres-disease.xhtml"/>
-		<itemref idref="he.xhtml"/>
-		<itemref idref="my-uncle-sosthene.xhtml"/>
-		<itemref idref="the-accursed-bread.xhtml"/>
-		<itemref idref="madame-luneaus-case.xhtml"/>
-		<itemref idref="a-wise-man.xhtml"/>
-		<itemref idref="the-umbrella.xhtml"/>
-		<itemref idref="a-meeting.xhtml"/>
-		<itemref idref="decorated.xhtml"/>
-		<itemref idref="chali.xhtml"/>
-		<itemref idref="the-legacy.xhtml"/>
-		<itemref idref="miss-harriet.xhtml"/>
-		<itemref idref="the-lock.xhtml"/>
-		<itemref idref="suicides.xhtml"/>
-		<itemref idref="the-kiss.xhtml"/>
-		<itemref idref="denis.xhtml"/>
-		<itemref idref="the-donkey.xhtml"/>
-		<itemref idref="an-idyll.xhtml"/>
-		<itemref idref="the-string.xhtml"/>
-		<itemref idref="waiter-a-bock.xhtml"/>
-		<itemref idref="regret.xhtml"/>
-		<itemref idref="my-uncle-jules.xhtml"/>
-		<itemref idref="on-the-journey.xhtml"/>
-		<itemref idref="mother-savage.xhtml"/>
-		<itemref idref="the-orient.xhtml"/>
-		<itemref idref="a-million.xhtml"/>
-		<itemref idref="friend-patience.xhtml"/>
-		<itemref idref="the-dowry.xhtml"/>
-		<itemref idref="feminine-men.xhtml"/>
-		<itemref idref="the-moustache.xhtml"/>
-		<itemref idref="bed-no-29.xhtml"/>
-		<itemref idref="the-patron.xhtml"/>
-		<itemref idref="old-mongilet.xhtml"/>
-		<itemref idref="the-closet.xhtml"/>
-		<itemref idref="bombard.xhtml"/>
-		<itemref idref="room-no-eleven.xhtml"/>
-		<itemref idref="a-womans-hair.xhtml"/>
-		<itemref idref="yvette.xhtml"/>
-		<itemref idref="our-friends-the-english.xhtml"/>
-		<itemref idref="rogers-method.xhtml"/>
-		<itemref idref="the-christening.xhtml"/>
-		<itemref idref="the-confession-3.xhtml"/>
-		<itemref idref="the-mother-of-monsters.xhtml"/>
-		<itemref idref="father-judas.xhtml"/>
-		<itemref idref="theodule-sabots-confession.xhtml"/>
-		<itemref idref="the-return.xhtml"/>
-		<itemref idref="the-castaway.xhtml"/>
-		<itemref idref="what-the-colonel-thought.xhtml"/>
-		<itemref idref="a-walk.xhtml"/>
-		<itemref idref="mohammed-fripouille.xhtml"/>
-		<itemref idref="the-keeper.xhtml"/>
-		<itemref idref="berthe.xhtml"/>
-		<itemref idref="misti.xhtml"/>
-		<itemref idref="old-bonifaces-crime.xhtml"/>
-		<itemref idref="rose.xhtml"/>
-		<itemref idref="the-father.xhtml"/>
-		<itemref idref="confessing.xhtml"/>
-		<itemref idref="the-necklace.xhtml"/>
-		<itemref idref="happiness.xhtml"/>
-		<itemref idref="the-old-man.xhtml"/>
-		<itemref idref="a-coward.xhtml"/>
-		<itemref idref="the-drunkard.xhtml"/>
-		<itemref idref="a-vendetta.xhtml"/>
-		<itemref idref="coco.xhtml"/>
-		<itemref idref="the-hand.xhtml"/>
-		<itemref idref="the-tramp.xhtml"/>
-		<itemref idref="a-parricide.xhtml"/>
-		<itemref idref="the-little-one.xhtml"/>
-		<itemref idref="guillemot-rock.xhtml"/>
-		<itemref idref="timbuktu.xhtml"/>
-		<itemref idref="a-true-story.xhtml"/>
-		<itemref idref="farewell.xhtml"/>
-		<itemref idref="a-memory.xhtml"/>
-		<itemref idref="the-confession.xhtml"/>
-		<itemref idref="a-humble-drama.xhtml"/>
-		<itemref idref="mister-belhommes-beast.xhtml"/>
-		<itemref idref="for-sale.xhtml"/>
-		<itemref idref="the-unknown.xhtml"/>
-		<itemref idref="the-secret.xhtml"/>
-		<itemref idref="the-christening-2.xhtml"/>
-		<itemref idref="indiscretion.xhtml"/>
-		<itemref idref="a-madman.xhtml"/>
-		<itemref idref="little-roque.xhtml"/>
-		<itemref idref="monsieur-parent.xhtml"/>
-		<itemref idref="country-courts.xhtml"/>
-		<itemref idref="the-hairpin.xhtml"/>
-		<itemref idref="the-woodcocks.xhtml"/>
-		<itemref idref="in-a-railway-carriage.xhtml"/>
-		<itemref idref="ca-ira.xhtml"/>
-		<itemref idref="unmasked.xhtml"/>
-		<itemref idref="solitude.xhtml"/>
-		<itemref idref="beside-the-bed.xhtml"/>
-		<itemref idref="the-hermit.xhtml"/>
-		<itemref idref="mademoiselle-pearl.xhtml"/>
-		<itemref idref="rosalie-prudent.xhtml"/>
-		<itemref idref="saved.xhtml"/>
-		<itemref idref="the-little-soldier.xhtml"/>
-		<itemref idref="the-wreck.xhtml"/>
-		<itemref idref="madame-parisse.xhtml"/>
-		<itemref idref="julie-romain.xhtml"/>
-		<itemref idref="old-amable.xhtml"/>
-		<itemref idref="caresses.xhtml"/>
-		<itemref idref="the-horla.xhtml"/>
-		<itemref idref="love.xhtml"/>
-		<itemref idref="the-hole.xhtml"/>
-		<itemref idref="clochette.xhtml"/>
-		<itemref idref="the-marquis-of-fumerol.xhtml"/>
-		<itemref idref="the-sign.xhtml"/>
-		<itemref idref="the-devil.xhtml"/>
-		<itemref idref="epiphany.xhtml"/>
-		<itemref idref="a-family.xhtml"/>
-		<itemref idref="in-the-wood.xhtml"/>
-		<itemref idref="joseph.xhtml"/>
-		<itemref idref="the-inn.xhtml"/>
-		<itemref idref="the-tramp-2.xhtml"/>
-		<itemref idref="mad-2.xhtml"/>
-		<itemref idref="fear-2.xhtml"/>
-		<itemref idref="madame-hussons-may-king.xhtml"/>
-		<itemref idref="checkmate.xhtml"/>
-		<itemref idref="hydrophobia.xhtml"/>
-		<itemref idref="the-model.xhtml"/>
-		<itemref idref="the-baroness.xhtml"/>
-		<itemref idref="a-sale.xhtml"/>
-		<itemref idref="the-assassin.xhtml"/>
-		<itemref idref="martins-girl.xhtml"/>
-		<itemref idref="one-nights-entertainment.xhtml"/>
-		<itemref idref="the-confession-2.xhtml"/>
-		<itemref idref="divorce.xhtml"/>
-		<itemref idref="the-revenge.xhtml"/>
-		<itemref idref="the-odyssey-of-a-prostitute.xhtml"/>
-		<itemref idref="the-window.xhtml"/>
-		<itemref idref="the-olive-orchard.xhtml"/>
-		<itemref idref="mouche.xhtml"/>
-		<itemref idref="the-drowned-man.xhtml"/>
-		<itemref idref="the-test.xhtml"/>
-		<itemref idref="the-mask.xhtml"/>
-		<itemref idref="useless-beauty.xhtml"/>
-		<itemref idref="a-portrait.xhtml"/>
-		<itemref idref="the-cripple.xhtml"/>
-		<itemref idref="the-mother-superiors-twenty-five-francs.xhtml"/>
-		<itemref idref="a-divorce-case.xhtml"/>
-		<itemref idref="who-knows.xhtml"/>
-		<itemref idref="alexander.xhtml"/>
-		<itemref idref="allouma.xhtml"/>
-		<itemref idref="hautot-and-his-son.xhtml"/>
-		<itemref idref="boitelle.xhtml"/>
-		<itemref idref="the-orderly.xhtml"/>
-		<itemref idref="the-rabbit.xhtml"/>
-		<itemref idref="one-evening.xhtml"/>
-		<itemref idref="the-rival-pins.xhtml"/>
-		<itemref idref="duchoux.xhtml"/>
-		<itemref idref="the-rendezvous.xhtml"/>
-		<itemref idref="in-port.xhtml"/>
-		<itemref idref="the-dead-woman.xhtml"/>
-		<itemref idref="the-putter-to-sleep.xhtml"/>
-		<itemref idref="madame-hermet.xhtml"/>
-		<itemref idref="the-pedlar.xhtml"/>
-		<itemref idref="after.xhtml"/>
-		<itemref idref="moonlight.xhtml"/>
-		<itemref idref="old-milon.xhtml"/>
-		<itemref idref="a-new-years-gift.xhtml"/>
-		<itemref idref="a-cry-of-alarm.xhtml"/>
-		<itemref idref="the-farmer.xhtml"/>
-		<itemref idref="the-blind-man.xhtml"/>
-		<itemref idref="the-cake.xhtml"/>
-		<itemref idref="magnetism.xhtml"/>
-		<itemref idref="a-corsican-bandit.xhtml"/>
-		<itemref idref="dreams.xhtml"/>
-		<itemref idref="a-womans-confession.xhtml"/>
-		<itemref idref="a-reckless-passion.xhtml"/>
-		<itemref idref="correspondence.xhtml"/>
-		<itemref idref="artfulness.xhtml"/>
-		<itemref idref="friend-joseph.xhtml"/>
-		<itemref idref="the-orphan.xhtml"/>
-		<itemref idref="beside-a-dead-man.xhtml"/>
-		<itemref idref="the-greenhouse.xhtml"/>
-		<itemref idref="a-duel.xhtml"/>
-		<itemref idref="a-party.xhtml"/>
-		<itemref idref="suspense.xhtml"/>
-		<itemref idref="the-first-fall-of-snow.xhtml"/>
-		<itemref idref="practical-jokes.xhtml"/>
-		<itemref idref="letter-found-on-a-drowned-man.xhtml"/>
-		<itemref idref="the-horrible.xhtml"/>
-		<itemref idref="nerves.xhtml"/>
-		<itemref idref="my-twenty-five-days.xhtml"/>
-		<itemref idref="are-we-to-teach-latin.xhtml"/>
-		<itemref idref="finis.xhtml"/>
-		<itemref idref="the-shepherds-leap.xhtml"/>
+		<!-- Le docteur Héraclius Gloss, 1921-11-15 - 1921-12-01 in La Revue de Paris (written in 1875) -->
 		<itemref idref="doctor-heraclius-gloss.xhtml"/>
-		<itemref idref="toine.xhtml"/>
-		<itemref idref="mother-and-daughter.xhtml"/>
-		<itemref idref="a-dead-womans-secret.xhtml"/>
-		<itemref idref="relics-of-the-past.xhtml"/>
-		<itemref idref="the-avenger.xhtml"/>
-		<itemref idref="blue-and-white.xhtml"/>
-		<itemref idref="the-logbook.xhtml"/>
+		<!-- La main d’écorché, 1875 in L’Almanach lorrain de Pont-à-Mousson -->
+		<itemref idref="the-dead-hand.xhtml"/>
+		<!-- Sur l’eau, 1876-03-10 (as “En Canot”) in Le Bulletin Français -->
+		<itemref idref="on-the-river.xhtml"/>
+		<!-- Le donneur d’eau bénite, 1877-11-10 in La Mosaïque -->
+		<itemref idref="at-the-church-door.xhtml"/>
+		<!-- Le mariage du lieutenant Laré, 1878-05-25 in La Mosaïque -->
+		<itemref idref="lieutenant-lares-marriage.xhtml"/>
+		<!-- Le papa de Simon, 1879-12-01 in La Réforme politique et littéraire -->
+		<itemref idref="simons-father.xhtml"/>
+		<!-- En famille, 1880-02-15 in La Nouvelle Revue -->
+		<itemref idref="a-family-affair.xhtml"/>
+		<!-- Boule de suif, 1880-04-16 in Les soirées de Médan -->
+		<itemref idref="boule-de-suif.xhtml"/>
+		<!-- Les dimanches d’un bourgeois de Paris, 1880-05-31 - 1880-08-16 in Le Gaulois -->
 		<itemref idref="les-dimanches-dun-bourgeois.xhtml"/>
+		<!-- Suicides, 1880-08-29 in Le Gaulois -->
+		<itemref idref="suicides.xhtml"/>
+		<!-- Jadis, 1880-09-13 in Le Gaulois -->
+		<itemref idref="a-grandmothers-advice.xhtml"/>
+		<!-- Histoire d’une fille de ferme, 1881-03-26 in La Réforme politique et littéraire -->
+		<itemref idref="story-of-a-farm-girl.xhtml"/>
+		<!-- Une partie de campagne, 1881-04-02 - 1881-04-09 in La Vie moderne -->
+		<itemref idref="a-country-excursion.xhtml"/>
+		<!-- Au printemps, 1881-04-21 in La maison Tellier -->
+		<itemref idref="in-the-spring.xhtml"/>
+		<!-- La femme de Paul, 1881-04-21 in La maison Tellier -->
+		<itemref idref="pauls-mistress.xhtml"/>
+		<!-- La maison Tellier, 1881-04-21 in La maison Tellier -->
+		<itemref idref="madame-telliers-establishment.xhtml"/>
+		<!-- Une aventure parisienne, 1881-12-22 in Gil Blas -->
+		<itemref idref="an-adventure-in-paris.xhtml"/>
+		<!-- Un réveillon, 1882-01-05 in Gil Blas -->
+		<itemref idref="a-christmas-eve-festival.xhtml"/>
+		<!-- Le gâteau, 1882-01-19 in Gil Blas -->
+		<itemref idref="the-cake.xhtml"/>
+		<!-- La bûche, 1882-01-26 in Gil Blas -->
+		<itemref idref="the-log.xhtml"/>
+		<!-- Mots d’amour, 1882-02-02 in Gil Blas -->
+		<itemref idref="words-of-love.xhtml"/>
+		<!-- Marroca, 1882-03-02 in Gil Blas -->
+		<itemref idref="marroca.xhtml"/>
+		<!-- Le saut du berger, 1882-03-09 in Gil Blas -->
+		<itemref idref="the-shepherds-leap.xhtml"/>
+		<!-- Le lit, 1882-03-16 in Gil Blas -->
+		<itemref idref="the-bed.xhtml"/>
+		<!-- Mademoiselle Fifi, 1882-03-23 in Gil Blas -->
+		<itemref idref="mademoiselle-fifi.xhtml"/>
+		<!-- Vieux objets, 1882-03-29 in Gil Blas -->
+		<itemref idref="relics-of-the-past.xhtml"/>
+		<!-- L’aveugle, 1882-03-31 in Le Gaulois -->
+		<itemref idref="the-blind-man.xhtml"/>
+		<!-- Magnétisme, 1882-04-05 in Gil Blas -->
+		<itemref idref="magnetism.xhtml"/>
+		<!-- La roche aux guillemots, 1882-04-14 in Le Galois -->
+		<itemref idref="guillemot-rock.xhtml"/>
+		<!-- Un fils, 1882-04-19 in Gil Blas -->
+		<itemref idref="a-son.xhtml"/>
+		<!-- En voyage, 1882-05-10 in Le Gaulois -->
+		<itemref idref="travelling.xhtml"/>
+		<!-- Un bandit corse, 1882-05-25 in Gil Blas -->
+		<itemref idref="a-corsican-bandit.xhtml"/>
+		<!-- La veillée, 1882-06-07 in Gil Blas -->
+		<itemref idref="a-dead-womans-secret.xhtml"/>
+		<!-- Rêves, 1882-06-08 in Le Gaulois -->
+		<itemref idref="dreams.xhtml"/>
+		<!-- Histoire vraie, 1882-06-18 in Le Gaulois -->
+		<itemref idref="a-true-story.xhtml"/>
+		<!-- Le voleur, 1882-06-21 in Gil Blas -->
+		<itemref idref="the-burglar.xhtml"/>
+		<!-- Confession d’une femme, 1882-06-28 in Gil Blas -->
+		<itemref idref="a-womans-confession.xhtml"/>
+		<!-- Clair de lune, 1882-07-01 in Gil Blas -->
+		<itemref idref="moonlight.xhtml"/>
+		<!-- Un coq chanta, 1882-07-05 in Gil Blas -->
+		<itemref idref="a-cock-crowed.xhtml"/>
+		<!-- L’enfant, 1882-07-24 in Le Gaulois -->
+		<itemref idref="the-child-2.xhtml"/>
+		<!-- Le verrou, 1882-07-25 in Gil Blas -->
+		<itemref idref="the-lock.xhtml"/>
+		<!-- Farce normande, 1882-08-08 in Gil Blas -->
+		<itemref idref="a-normandy-joke.xhtml"/>
+		<!-- Mon oncle Sosthène, 1882-08-12 in Gil Blas -->
+		<itemref idref="my-uncle-sosthene.xhtml"/>
+		<!-- Une passion, 1882-08-22 in Gil Blas -->
+		<itemref idref="a-reckless-passion.xhtml"/>
+		<!-- Fou?, 1882-08-23 in Gil Blas -->
+		<itemref idref="mad.xhtml"/>
+		<!-- Correspondance, 1882-08-30 in Gil Blas -->
+		<itemref idref="correspondence.xhtml"/>
+		<!-- Une veuve, 1882-09-01 in Le Gaulois -->
+		<itemref idref="a-widow.xhtml"/>
+		<!-- La rouille, 1882-09-14 in Gil Blas -->
+		<itemref idref="rust.xhtml"/>
+		<!-- La rempailleuse, 1882-09-17 in Le Gaulois -->
+		<itemref idref="the-chair-mender.xhtml"/>
+		<!-- Une ruse, 1882-09-25 in Gil Blas -->
+		<itemref idref="an-artifice.xhtml"/>
+		<!-- Un parricide, 1882-09-25 in Le Gaulois -->
+		<itemref idref="a-parricide.xhtml"/>
+		<!-- Pierrot, 1882-10-09 in Le Gaulois -->
+		<itemref idref="pierrot.xhtml"/>
+		<!-- Un normand, 1882-10-10 in Gil Blas -->
+		<itemref idref="a-norman.xhtml"/>
+		<!-- Le pardon, 1882-10-16 in Le Gaulois -->
+		<itemref idref="the-pardon.xhtml"/>
+		<!-- La relique, 1882-10-17 in Gil Blas -->
+		<itemref idref="the-relic.xhtml"/>
+		<!-- Clair de lune, 1882-10-19 in Le Gaulois -->
+		<itemref idref="in-the-moonlight.xhtml"/>
+		<!-- La peur, 1882-10-23 in Le Figaro -->
+		<itemref idref="fear.xhtml"/>
+		<!-- Aux champs, 1882-10-31 in Le Gaulois -->
+		<itemref idref="in-the-country.xhtml"/>
+		<!-- Un million, 1882-11-02 in Gil Blas -->
+		<itemref idref="a-million.xhtml"/>
+		<!-- Le testament, 1882-11-07 in Gil Blas -->
+		<itemref idref="the-will.xhtml"/>
+		<!-- Le loup, 1882-11-14 in Le Gaulois -->
+		<itemref idref="the-wolf.xhtml"/>
+		<!-- Le baiser, 1882-11-14 in Gil Blas -->
+		<itemref idref="the-kiss.xhtml"/>
+		<!-- Ce cochon de Morin, 1882-11-21 in Gil Blas -->
+		<itemref idref="that-pig-morin.xhtml"/>
+		<!-- Madame Baptiste, 1882-11-28 in Gil Blas -->
+		<itemref idref="madame-baptiste.xhtml"/>
+		<!-- Ma femme, 1882-12-05 in Gil Blas -->
+		<itemref idref="my-wife.xhtml"/>
+		<!-- La bécasse, 1882-12-05 in Le Gaulois -->
+		<itemref idref="the-snipe.xhtml"/>
+		<!-- La folle, 1882-12-05 in Le Gaulois -->
+		<itemref idref="the-mad-woman.xhtml"/>
+		<!-- Rouerie, 1882-12-12 in Gil Blas -->
+		<itemref idref="artfulness.xhtml"/>
+		<!-- La légende du Mont Saint-Michel, 1882-12-19 in Gil Blas -->
+		<itemref idref="the-legend-of-mont-saint-michel.xhtml"/>
+		<!-- Menuet, 1882-12-20 in Le Gaulois -->
+		<itemref idref="minuet.xhtml"/>
+		<!-- Yveline Samoris, 1882-12-20 in Le Gaulois -->
+		<itemref idref="mother-and-daughter.xhtml"/>
+		<!-- Conte de Noël, 1882-12-25 in Le Gaulois -->
+		<itemref idref="a-christmas-tale.xhtml"/>
+		<!-- Nuit de Noël, 1882-12-26 in Gil Blas -->
+		<itemref idref="christmas-eve.xhtml"/>
+		<!-- Le remplaçant, 1883-01-02 in Gil Blas -->
+		<itemref idref="the-substitute.xhtml"/>
+		<!-- À cheval, 1883-01-14 in Le Gaulois -->
+		<itemref idref="on-horseback.xhtml"/>
+		<!-- Les sabots, 1883-01-21 in Gil Blas -->
+		<itemref idref="the-wooden-shoes.xhtml"/>
+		<!-- M. Jocaste, 1883-01-23 in Gil Blas -->
+		<itemref idref="monsieur-jocaste.xhtml"/>
+		<!-- Auprès d’un mort, 1883-01-30 in Gil Blas -->
+		<itemref idref="beside-a-dead-man.xhtml"/>
+		<!-- Deux amis, 1883-02-05 in Gil Blas -->
+		<itemref idref="two-friends.xhtml"/>
+		<!-- En mer, 1883-02-12 in Gil Blas -->
+		<itemref idref="at-sea.xhtml"/>
+		<!-- La parure, 1883-02-17 in Le Gaulois -->
+		<itemref idref="the-necklace.xhtml"/>
+		<!-- Réveil, 1883-02-20 in Gil Blas -->
+		<itemref idref="the-awakening.xhtml"/>
+		<!-- Le père Judas, 1883-02-28 in Le Gaulois -->
+		<itemref idref="father-judas.xhtml"/>
+		<!-- L’homme-fille, 1883-03-13 in Gil Blas -->
+		<itemref idref="feminine-men.xhtml"/>
+		<!-- Mademoiselle Cocotte, 1883-03-20 in Gil Blas -->
+		<itemref idref="mademoiselle-cocotte.xhtml"/>
+		<!-- Les bijoux, 1883-03-27 in Gil Blas -->
+		<itemref idref="the-jewels.xhtml"/>
+		<!-- Saint-Antoine, 1883-04-03 in Gil Blas -->
+		<itemref idref="saint-anthony.xhtml"/>
+		<!-- Apparition, 1883-04-04 in Le Gaulois -->
+		<itemref idref="an-apparition.xhtml"/>
+		<!-- L’aventure de Walter Schnaffs, 1883-04-11 in Le Gaulois -->
+		<itemref idref="walter-schnaffs-adventure.xhtml"/>
+		<!-- La reine Hortense, 1883-04-24 in Gil Blas -->
+		<itemref idref="queen-hortense.xhtml"/>
+		<!-- En voyage, 1883-05-10 in Gil Blas -->
+		<itemref idref="on-the-journey.xhtml"/>
+		<!-- Le père Milon, 1883-05-22 in Le Gaulois -->
+		<itemref idref="old-milon.xhtml"/>
+		<!-- Le pain maudit, 1883-05-29 in Gil Blas -->
+		<itemref idref="the-accursed-bread.xhtml"/>
+		<!-- L’ami Joseph, 1883-06-03 in Le Gaulois -->
+		<itemref idref="friend-joseph.xhtml"/>
+		<!-- La mère aux monstres, 1883-06-12 in Gil Blas -->
+		<itemref idref="the-mother-of-monsters.xhtml"/>
+		<!-- L’orphelin, 1883-06-15 in Le Gaulois -->
+		<itemref idref="the-orphan.xhtml"/>
+		<!-- Le crime au père Boniface, 1883-06-24 in Gil Blas -->
+		<itemref idref="old-bonifaces-crime.xhtml"/>
+		<!-- La serre, 1883-06-26 in Gil Blas -->
+		<itemref idref="the-greenhouse.xhtml"/>
+		<!-- Denis, 1883-06-28 in Le Gaulois -->
+		<itemref idref="denis.xhtml"/>
+		<!-- Lui?, 1883-07-03 in Gil Blas -->
+		<itemref idref="he.xhtml"/>
+		<!-- La fenêtre, 1883-07-10 in Gil Blas -->
+		<itemref idref="the-window.xhtml"/>
+		<!-- L’âne, 1883-07-15 in Le Gaulois -->
+		<itemref idref="the-donkey.xhtml"/>
+		<!-- Le mal d’André, 1883-07-24 in Gil Blas -->
+		<itemref idref="andres-disease.xhtml"/>
+		<!-- La Moustache, 1883-07-31 in Gil Blas -->
+		<itemref idref="the-moustache.xhtml"/>
+		<!-- Tombouctou, 1883-08-02 in Le Gaulois -->
+		<itemref idref="timbuktu.xhtml"/>
+		<!-- Mon oncle Jules, 1883-08-07 in Le Gaulois -->
+		<itemref idref="my-uncle-jules.xhtml"/>
+		<!-- Enragée?, 1883-08-07 in Gil Blas -->
+		<itemref idref="hydrophobia.xhtml"/>
+		<!-- Les caresses, 1883-08-14 in Gil Blas -->
+		<itemref idref="caresses.xhtml"/>
+		<!-- Un duel, 1883-08-14 in Le Gaulois -->
+		<itemref idref="a-duel.xhtml"/>
+		<!-- Le petit, 1883-08-19 in Le Gaulois -->
+		<itemref idref="the-little-one.xhtml"/>
+		<!-- Le cas de Mme Luneau, 1883-08-21 in Gil Blas -->
+		<itemref idref="madame-luneaus-case.xhtml"/>
+		<!-- L’ami Patience, 1883-09-04 in Gil Blas -->
+		<itemref idref="friend-patience.xhtml"/>
+		<!-- Le bûcher, 1883-09-07 in Le Figaro -->
+		<itemref idref="the-funeral-pile.xhtml"/>
+		<!-- Miss Harriet, 1883-09-09 in Le Gaulois -->
+		<itemref idref="miss-harriet.xhtml"/>
+		<!-- La Martine, 1883-09-11 in Gil Blas -->
+		<itemref idref="martins-girl.xhtml"/>
+		<!-- L’orient, 1883-09-13 in Le Gaulois -->
+		<itemref idref="the-orient.xhtml"/>
+		<!-- L’enfant, 1883-09-18 in Gil Blas -->
+		<itemref idref="the-child.xhtml"/>
+		<!-- Une soirée, 1883-09-21 in Gil Blas -->
+		<itemref idref="a-party.xhtml"/>
+		<!-- L’odyssée d’une fille, 1883-09-25 in Gil Blas -->
+		<itemref idref="the-odyssey-of-a-prostitute.xhtml"/>
+		<!-- Un coup d’État, 1883-10-01 in Clair de Lune -->
+		<itemref idref="a-coup-detat.xhtml"/>
+		<!-- Humble drame, 1883-10-02 in Gil Blas -->
+		<itemref idref="a-humble-drama.xhtml"/>
+		<!-- La confession de Théodule Sabot, 1883-10-09 in Gil Blas -->
+		<itemref idref="theodule-sabots-confession.xhtml"/>
+		<!-- Une vendetta, 1883-10-14 in Le Gaulois -->
+		<itemref idref="a-vendetta.xhtml"/>
+		<!-- La confession, 1883-10-21 in Gil Blas -->
+		<itemref idref="the-confession.xhtml"/>
+		<!-- Au bord du lit, 1883-10-23 in Gil Blas -->
+		<itemref idref="beside-the-bed.xhtml"/>
+		<!-- Regret, 1883-11-04 in Le Gaulois -->
+		<itemref idref="regret.xhtml"/>
+		<!-- Le vengeur, 1883-11-06 in Gil Blas -->
+		<itemref idref="the-avenger.xhtml"/>
+		<!-- L’attente, 1883-11-11 in Le Gaulois -->
+		<itemref idref="suspense.xhtml"/>
+		<!-- Décoré!, 1883-11-13 in Gil Blas -->
+		<itemref idref="decorated.xhtml"/>
+		<!-- Le père, 1883-11-20 in Gil Blas -->
+		<itemref idref="the-father.xhtml"/>
+		<!-- La ficelle, 1883-11-25 in Le Gaulois -->
+		<itemref idref="the-string.xhtml"/>
+		<!-- Un sage, 1883-12-04 in Gil Blas -->
+		<itemref idref="a-wise-man.xhtml"/>
+		<!-- Première neige, 1883-12-11 in Le Gaulois -->
+		<itemref idref="the-first-fall-of-snow.xhtml"/>
+		<!-- Le modèle, 1883-12-17 in Le Gaulois -->
+		<itemref idref="the-model.xhtml"/>
+		<!-- La farce, 1883-12-18 in Gil Blas -->
+		<itemref idref="practical-jokes.xhtml"/>
+		<!-- La main, 1883-12-23 in Le Gaulois -->
+		<itemref idref="the-hand.xhtml"/>
+		<!-- Garçon, un Bock!..., 1884-01-01 in Gil Blas -->
+		<itemref idref="waiter-a-bock.xhtml"/>
+		<!-- Le vieux, 1884-01-06 in Le Gaulois -->
+		<itemref idref="the-old-man.xhtml"/>
+		<!-- Lettre trouvée sur un noyé, 1884-01-08 in Gil Blas -->
+		<itemref idref="letter-found-on-a-drowned-man.xhtml"/>
+		<!-- Le baptême, 1884-01-14 in Gil Blas -->
+		<itemref idref="the-christening.xhtml"/>
+		<!-- Coco, 1884-01-21 in Le Gaulois -->
+		<itemref idref="coco.xhtml"/>
+		<!-- Misti, 1884-01-22 in Gil Blas -->
+		<itemref idref="misti.xhtml"/>
+		<!-- Un lâche, 1884-01-27 in Le Gaulois -->
+		<itemref idref="a-coward.xhtml"/>
+		<!-- Rose, 1884-01-29 in Gil Blas -->
+		<itemref idref="rose.xhtml"/>
+		<!-- Notes d’un voyageur, 1884-02-04 in Le Gaulois -->
+		<itemref idref="a-travellers-notes.xhtml"/>
+		<!-- Le protecteur, 1884-02-05 in Gil Blas -->
+		<itemref idref="the-patron.xhtml"/>
+		<!-- Le parapluie, 1884-02-10 in Le Gaulois -->
+		<itemref idref="the-umbrella.xhtml"/>
+		<!-- Idylle, 1884-02-12 in Gil Blas -->
+		<itemref idref="an-idyll.xhtml"/>
+		<!-- Une vente, 1884-02-22 in Gil Blas -->
+		<itemref idref="a-sale.xhtml"/>
+		<!-- La mère Sauvage, 1884-03-03 in Le Gaulois -->
+		<itemref idref="mother-savage.xhtml"/>
+		<!-- Le gueux, 1884-03-09 in Le Gaulois -->
+		<itemref idref="the-tramp.xhtml"/>
+		<!-- Rencontre, 1884-03-11 in Le Gaulois -->
+		<itemref idref="a-meeting.xhtml"/>
+		<!-- L’héritage, 1884-03-15 - 1884-04-26 in La Vie militaire illustrée -->
+		<itemref idref="the-legacy.xhtml"/>
+		<!-- Le bonheur, 1884-03-16 in Le Gaulois -->
+		<itemref idref="happiness.xhtml"/>
+		<!-- Adieu, 1884-03-18 in Gil Blas -->
+		<itemref idref="farewell.xhtml"/>
+		<!-- Solitude, 1884-03-31 in Le Gaulois -->
+		<itemref idref="solitude.xhtml"/>
+		<!-- La patronne, 1884-04-01 in Gil Blas -->
+		<itemref idref="my-landlady.xhtml"/>
+		<!-- Le petit fût, 1884-04-07 in Le Gaulois -->
+		<itemref idref="the-little-cask.xhtml"/>
+		<!-- Châli, 1884-04-15 in Gil Blas -->
+		<itemref idref="chali.xhtml"/>
+		<!-- L’ivrogne, 1884-04-20 in Le Gaulois -->
+		<itemref idref="the-drunkard.xhtml"/>
+		<!-- La chevelure, 1884-05-13 in Gil Blas -->
+		<itemref idref="a-womans-hair.xhtml"/>
+		<!-- L’horrible, 1884-05-18 in Le Gaulois -->
+		<itemref idref="the-horrible.xhtml"/>
+		<!-- Souvenir, 1884-05-20 in Gil Blas -->
+		<itemref idref="a-memory.xhtml"/>
+		<!-- Promenade, 1884-05-27 in Gil Blas -->
+		<itemref idref="a-walk.xhtml"/>
+		<!-- Les sœurs Rondoli, 1884-05-29 - 1884-06-05 in L'Écho de Paris -->
+		<itemref idref="the-sisters-rondoli.xhtml"/>
+		<!-- Les idées du Colonel, 1884-06-09 in Le Gaulois -->
+		<itemref idref="what-the-colonel-thought.xhtml"/>
+		<!-- Le lit 29, 1884-07-08 in Gil Blas -->
+		<itemref idref="bed-no-29.xhtml"/>
+		<!-- Le tic, 1884-07-14 in Le Gaulois -->
+		<itemref idref="nerves.xhtml"/>
+		<!-- L’aveu, 1884-07-22 in Gil Blas -->
+		<itemref idref="confessing.xhtml"/>
+		<!-- La peur, 1884-07-25 in Le Gaulois -->
+		<itemref idref="fear-2.xhtml"/>
+		<!-- Le retour, 1884-07-28 in Le Gaulois -->
+		<itemref idref="the-return.xhtml"/>
+		<!-- La tombe, 1884-07-29 in Gil Blas -->
+		<itemref idref="the-tomb.xhtml"/>
+		<!-- La confession, 1884-08-12 in Le Gaulois -->
+		<itemref idref="the-confession-2.xhtml"/>
+		<!-- L’abandonné, 1884-08-15 in Le Figaro -->
+		<itemref idref="the-castaway.xhtml"/>
+		<!-- Yvette, 1884-08-29 - 1884-09-09 in Le Figaro -->
+		<itemref idref="yvette.xhtml"/>
+		<!-- Un fou?, 1884-09-01 in Le Figaro -->
+		<itemref idref="mad-2.xhtml"/>
+		<!-- Découverte, 1884-09-04 in Le Gaulois -->
+		<itemref idref="unmasked.xhtml"/>
+		<!-- La dot, 1884-09-09 in Gil Blas -->
+		<itemref idref="the-dowry.xhtml"/>
+		<!-- Mohammed-Fripouille, 1884-09-20 in Le Gaulois -->
+		<itemref idref="mohammed-fripouille.xhtml"/>
+		<!-- Le garde, 1884-10-08 in Le Gaulois -->
+		<itemref idref="the-keeper.xhtml"/>
+		<!-- Berthe, 1884-10-20 in Le Figaro -->
+		<itemref idref="berthe.xhtml"/>
+		<!-- Bombard, 1884-10-28 in Gil Blas -->
+		<itemref idref="bombard.xhtml"/>
+		<!-- La confession, 1884-11-10 in Le Figaro -->
+		<itemref idref="the-confession-3.xhtml"/>
+		<!-- La revanche, 1884-11-18 in Gil Blas -->
+		<itemref idref="the-revenge.xhtml"/>
+		<!-- Tribunaux rustiques, 1884-11-25 in Gil Blas -->
+		<itemref idref="country-courts.xhtml"/>
+		<!-- La chambre 11, 1884-12-09 in Gil Blas -->
+		<itemref idref="room-no-eleven.xhtml"/>
+		<!-- L’armoire, 1884-12-16 in Gil Blas -->
+		<itemref idref="the-closet.xhtml"/>
+		<!-- Les prisonniers, 1884-12-30 in Gil Blas -->
 		<itemref idref="military-honors.xhtml"/>
+		<!-- À vendre, 1885-01-05 in Le Figaro -->
+		<itemref idref="for-sale.xhtml"/>
+		<!-- Toine, 1885-01-06 in Gil Blas -->
+		<itemref idref="toine.xhtml"/>
+		<!-- Le baptême, 1885-01-13 in Le Gaulois -->
+		<itemref idref="the-christening-2.xhtml"/>
+		<!-- L’inconnue, 1885-01-27 in Gil Blas -->
+		<itemref idref="the-unknown.xhtml"/>
+		<!-- Blanc et Bleu, 1885-02-03 in Gil Blas -->
+		<itemref idref="blue-and-white.xhtml"/>
+		<!-- Nos anglais, 1885-02-10 in Gil Blas -->
+		<itemref idref="our-friends-the-english.xhtml"/>
+		<!-- Le père Mongilet, 1885-02-24 in Gil Blas -->
+		<itemref idref="old-mongilet.xhtml"/>
+		<!-- Le moyen de Roger, 1885-03-03 in Gil Blas -->
+		<itemref idref="rogers-method.xhtml"/>
+		<!-- En wagon, 1885-03-24 in Gil Blas -->
+		<itemref idref="in-a-railway-carriage.xhtml"/>
+		<!-- Petit soldat, 1885-04-13 in Le Figaro -->
+		<itemref idref="the-little-soldier.xhtml"/>
+		<!-- Un échec, 1885-06-16 in Gil Blas -->
+		<itemref idref="checkmate.xhtml"/>
+		<!-- Joseph, 1885-07-21 in Gil Blas -->
+		<itemref idref="joseph.xhtml"/>
+		<!-- Fini, 1885-07-27 in Le Gaulois -->
+		<itemref idref="finis.xhtml"/>
+		<!-- L’épingle, 1885-08-13 in Gil Blas -->
+		<itemref idref="the-hairpin.xhtml"/>
+		<!-- La confidence, 1885-08-20 in Gil Blas -->
+		<itemref idref="the-secret.xhtml"/>
+		<!-- Mes vingt-cinq jours, 1885-08-25 in Gil Blas -->
+		<itemref idref="my-twenty-five-days.xhtml"/>
+		<!-- Un fou, 1885-09-02 in Le Gaulois -->
+		<itemref idref="a-madman.xhtml"/>
+		<!-- Imprudence, 1885-09-15 in Gil Blas -->
+		<itemref idref="indiscretion.xhtml"/>
+		<!-- La bête à Maît’ Belhomme, 1885-09-22 in Gil Blas -->
+		<itemref idref="mister-belhommes-beast.xhtml"/>
+		<!-- Les bécasses, 1885-10-20 in Gil Blas -->
+		<itemref idref="the-woodcocks.xhtml"/>
+		<!-- Monsieur Parent, 1885-11-10 in Journal des débats politiques et littéraires -->
+		<itemref idref="monsieur-parent.xhtml"/>
+		<!-- Ça ira, 1885-11-10 in Gil Blas -->
+		<itemref idref="ca-ira.xhtml"/>
+		<!-- Sauvée, 1885-12-22 in Gil Blas -->
+		<itemref idref="saved.xhtml"/>
+		<!-- La petite Roque, 1885-12-23 in Gil Blas -->
+		<itemref idref="little-roque.xhtml"/>
+		<!-- L’épave, 1886-01-01 in Le Gaulois -->
+		<itemref idref="the-wreck.xhtml"/>
+		<!-- Mademoiselle Perle, 1886-01-16 in supplement littéraire du Le Figaro -->
+		<itemref idref="mademoiselle-pearl.xhtml"/>
+		<!-- L’ermite, 1886-01-26 in Gil Blas -->
+		<itemref idref="the-hermit.xhtml"/>
+		<!-- Sur les chats, 1886-02-09 in Gil Blas -->
 		<itemref idref="on-cats.xhtml"/>
+		<!-- Rosalie Prudent, 1886-03-02 in Gil Blas -->
+		<itemref idref="rosalie-prudent.xhtml"/>
+		<!-- Madame Parisse, 1886-03-16 in Gil Blas -->
+		<itemref idref="madame-parisse.xhtml"/>
+		<!-- Julie Romain, 1886-03-20 in Le Gaulois -->
+		<itemref idref="julie-romain.xhtml"/>
+		<!-- Le signe, 1886-04-27 in Gil Blas -->
+		<itemref idref="the-sign.xhtml"/>
+		<!-- Le père Amable, 1886-04-30 - 1886-05-04 in Gil Blas -->
+		<itemref idref="old-amable.xhtml"/>
+		<!-- Une famille, 1886-08-03 in Gil Blas -->
+		<itemref idref="a-family.xhtml"/>
+		<!-- Le diable, 1886-08-05 in Le Gaulois -->
+		<itemref idref="the-devil.xhtml"/>
+		<!-- Un cas de divorce, 1886-08-31 in Gil Blas -->
+		<itemref idref="a-divorce-case.xhtml"/>
+		<!-- L’auberge, 1886-09-01 in Les Lettres et les Arts -->
+		<itemref idref="the-inn.xhtml"/>
+		<!-- La question du latin, 1886-09-02 in Le Gaulois -->
+		<itemref idref="are-we-to-teach-latin.xhtml"/>
+		<!-- Le trou, 1886-09-09 in Gil Blas -->
+		<itemref idref="the-hole.xhtml"/>
+		<!-- Le marquis de Fumerol, 1886-10-05 in Gil Blas -->
+		<itemref idref="the-marquis-of-fumerol.xhtml"/>
+		<!-- Le fermier, 1886-11-10 in Le Gaulois -->
+		<itemref idref="the-farmer.xhtml"/>
+		<!-- Cri d’alarme, 1886-11-23 in Gil Blas -->
+		<itemref idref="a-cry-of-alarm.xhtml"/>
+		<!-- Amour, 1886-12-07 in Gil Blas -->
+		<itemref idref="love.xhtml"/>
+		<!-- Clochette, 1886-12-21 in Gil Blas -->
+		<itemref idref="clochette.xhtml"/>
+		<!-- Au bois, 1886-12-21 in Gil Blas -->
+		<itemref idref="in-the-wood.xhtml"/>
+		<!-- Le vagabond, 1887-01-01 in La Nouvelle Revue -->
+		<itemref idref="the-tramp-2.xhtml"/>
+		<!-- Étrennes, 1887-01-07 in Gil Blas -->
+		<itemref idref="a-new-years-gift.xhtml"/>
+		<!-- Madame Hermet, 1887-01-18 in Gil Blas -->
+		<itemref idref="madame-hermet.xhtml"/>
+		<!-- Les rois, 1887-01-23 in Le Gaulois -->
+		<itemref idref="epiphany.xhtml"/>
+		<!-- Une soirée, 1887-03-29 in Le Gaulois -->
+		<itemref idref="one-nights-entertainment.xhtml"/>
+		<!-- La porte, 1887-05-03 in Gil Blas -->
+		<itemref idref="the-door.xhtml"/>
+		<!-- La baronne, 1887-05-17 in Gil Blas -->
+		<itemref idref="the-baroness.xhtml"/>
+		<!-- Le Horla, 1887-05-25 in Le Horla, Ollendorff Edition -->
+		<itemref idref="the-horla.xhtml"/>
+		<!-- La nuit, 1887-06-14 in Gil Blas -->
+		<itemref idref="night.xhtml"/>
+		<!-- La morte, 1887-06-14 in Gil Blas -->
+		<itemref idref="the-dead-woman.xhtml"/>
+		<!-- Le rosier de Madame Husson, 1887-06-15 in La Nouvelle Revue -->
+		<itemref idref="madame-hussons-may-king.xhtml"/>
+		<!-- Le père, 1887-06-26 in Gil Blas -->
+		<itemref idref="the-father-2.xhtml"/>
+		<!-- Le lapin, 1887-07-19 in Gil Blas -->
+		<itemref idref="the-rabbit.xhtml"/>
+		<!-- L’ordonnance, 1887-08-23 in Gil Blas -->
+		<itemref idref="the-orderly.xhtml"/>
+		<!-- Moiron, 1887-09-27 in Gil Blas -->
+		<itemref idref="moiron.xhtml"/>
+		<!-- L’assassin, 1887-11-01 in Gil Blas -->
+		<itemref idref="the-assassin.xhtml"/>
+		<!-- Duchoux, 1887-11-14 in Le Gaulois -->
+		<itemref idref="duchoux.xhtml"/>
+		<!-- Les épingles, 1888-01-10 in Gil Blas -->
+		<itemref idref="the-rival-pins.xhtml"/>
+		<!-- Divorce, 1888-02-21 in Gil Blas -->
+		<itemref idref="divorce.xhtml"/>
+		<!-- Nos lettres, 1888-02-29 in Le Gaulois -->
+		<itemref idref="our-letters.xhtml"/>
+		<!-- Les vingt-cinq francs de la supérieure, 1888-03-28 in Gil Blas -->
+		<itemref idref="the-mother-superiors-twenty-five-francs.xhtml"/>
+		<!-- Le noyé, 1888-08-16 in Le Gaulois -->
+		<itemref idref="the-drowned-man.xhtml"/>
+		<!-- L’infirme, 1888-10-21 in Le Gaulois -->
+		<itemref idref="the-cripple.xhtml"/>
+		<!-- Un portrait, 1888-10-29 in Le Gaulois -->
+		<itemref idref="a-portrait.xhtml"/>
+		<!-- Hautot père et fils, 1889-01-05 in L'Écho de Paris -->
+		<itemref idref="hautot-and-his-son.xhtml"/>
+		<!-- Un soir, 1889-01-19 - 1889-01-26 in L’Illustration -->
+		<itemref idref="one-evening.xhtml"/>
+		<!-- Boitelle, 1889-01-22 in L'Écho de Paris -->
+		<itemref idref="boitelle.xhtml"/>
+		<!-- Allouma, 1889-02-10 - 1889-02-15 in L'Écho de Paris -->
+		<itemref idref="allouma.xhtml"/>
+		<!-- Le rendez-vous, 1889-02-23 in L'Écho de Paris -->
+		<itemref idref="the-rendezvous.xhtml"/>
+		<!-- Le port, 1889-03-15 in L'Echo de Paris -->
+		<itemref idref="in-port.xhtml"/>
+		<!-- Le masque, 1889-05-10 in L'Echo de Paris -->
+		<itemref idref="the-mask.xhtml"/>
+		<!-- L’épreuve, 1889-07-13 in L'Echo de Paris -->
+		<itemref idref="the-test.xhtml"/>
+		<!-- Alexandre, 1889-09-02 in L'Écho de Paris -->
+		<itemref idref="alexander.xhtml"/>
+		<!-- L’endormeuse, 1889-09-16 in L'Echo de Paris -->
+		<itemref idref="the-putter-to-sleep.xhtml"/>
+		<!-- Mouche, 1890-02-07 in L'Écho de Paris -->
+		<itemref idref="mouche.xhtml"/>
+		<!-- Le champ d’oliviers, 1890-02-19 - 1890-02-23 in Le Figaro -->
+		<itemref idref="the-olive-orchard.xhtml"/>
+		<!-- L’inutile beauté, 1890-04-02 - 1890-04-07 in L'Echo de Paris -->
+		<itemref idref="useless-beauty.xhtml"/>
+		<!-- Qui sait?, 1890-04-06 in L'Echo de Paris -->
+		<itemref idref="who-knows.xhtml"/>
+		<!-- Les tombales, 1891-01-09 in Gil Blas -->
+		<itemref idref="graveyard-sirens.xhtml"/>
+		<!-- Le colporteur, 1893-03-08 in Le Figaro -->
+		<itemref idref="the-pedlar.xhtml"/>
+		<!-- Après, 1900 in Le colporteur -->
+		<itemref idref="after.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
