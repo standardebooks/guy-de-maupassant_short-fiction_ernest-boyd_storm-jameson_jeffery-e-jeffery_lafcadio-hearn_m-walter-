@@ -135,6 +135,11 @@ p span.i4{
 	text-indent: -1em;
 }
 
+p span.i6{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
 /* elision ⋮ */
 span.elision{
 	margin: .5em;
