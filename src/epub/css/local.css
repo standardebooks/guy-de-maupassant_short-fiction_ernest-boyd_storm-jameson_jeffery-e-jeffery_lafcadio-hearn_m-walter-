@@ -188,7 +188,7 @@ header p[epub|type~="z3998:salutation"]{
 	margin-bottom: 1em;
 }
 
-#doctor-heraclius-gloss-6 blockquote header{
+#doctor-heraclius-gloss-chapter-6 blockquote header{
 	font-variant: small-caps;
 }
 
@@ -251,6 +251,6 @@ header p[epub|type~="z3998:salutation"]{
 	text-indent: 1em;
 }
 
-#the-revenge-1 p:nth-of-type(2){
+#the-revenge-chapter-1 p:nth-of-type(2){
 	text-indent: 0;
 }
