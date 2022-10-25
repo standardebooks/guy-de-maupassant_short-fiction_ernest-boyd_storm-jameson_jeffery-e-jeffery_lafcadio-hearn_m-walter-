@@ -83,6 +83,9 @@
 		<!-- Saint Anthony, and Other Stories, Lafcadio Hearn -->
 		<!-- 'Toine -->
 		<dc:source>https://books.google.com/books?id=VMRcAAAAMAAJ</dc:source>
+		<!-- Maupassant: A Lion in the Path -->
+		<!-- A Surprise, An Old Man, Letter from a Madman, The Legacy (2) -->
+		<dc:source>https://catalog.hathitrust.org/Record/001213466</dc:source>
 		<!-- The Works of Guy de Maupassant -->
 		<!-- Mother and Daughter (v5), A Dead Woman's Secret (v8), Relics of the Past (v8), The Avenger (v8), Blue and White (v10), The Log-Book (v10), verse translation (v1-3, v8, v10) -->
 		<dc:source>https://catalog.hathitrust.org/Record/101925686</dc:source>
@@ -218,6 +221,7 @@
 		<item href="text/a-reckless-passion.xhtml" id="a-reckless-passion.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-sale.xhtml" id="a-sale.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-son.xhtml" id="a-son.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-surprise.xhtml" id="a-surprise.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-travellers-notes.xhtml" id="a-travellers-notes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-true-story.xhtml" id="a-true-story.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/a-vendetta.xhtml" id="a-vendetta.xhtml" media-type="application/xhtml+xml"/>
@@ -233,6 +237,7 @@
 		<item href="text/an-apparition.xhtml" id="an-apparition.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-artifice.xhtml" id="an-artifice.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/an-idyll.xhtml" id="an-idyll.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/an-old-man.xhtml" id="an-old-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/andres-disease.xhtml" id="andres-disease.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/are-we-to-teach-latin.xhtml" id="are-we-to-teach-latin.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/artfulness.xhtml" id="artfulness.xhtml" media-type="application/xhtml+xml"/>
@@ -294,6 +299,7 @@
 		<item href="text/julie-romain.xhtml" id="julie-romain.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/les-dimanches-dun-bourgeois.xhtml" id="les-dimanches-dun-bourgeois.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/letter-found-on-a-drowned-man.xhtml" id="letter-found-on-a-drowned-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/letter-from-a-madman.xhtml" id="letter-from-a-madman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/lieutenant-lares-marriage.xhtml" id="lieutenant-lares-marriage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/little-roque.xhtml" id="little-roque.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/love.xhtml" id="love.xhtml" media-type="application/xhtml+xml"/>
@@ -406,6 +412,7 @@
 		<item href="text/the-jewels.xhtml" id="the-jewels.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-keeper.xhtml" id="the-keeper.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-kiss.xhtml" id="the-kiss.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-legacy-2.xhtml" id="the-legacy-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-legacy.xhtml" id="the-legacy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-legend-of-mont-saint-michel.xhtml" id="the-legend-of-mont-saint-michel.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-little-cask.xhtml" id="the-little-cask.xhtml" media-type="application/xhtml+xml"/>
@@ -578,6 +585,8 @@
 		<itemref idref="the-chair-mender.xhtml"/>
 		<!-- Une ruse, 1882-09-25 in Gil Blas -->
 		<itemref idref="an-artifice.xhtml"/>
+		<!-- Un vieux, 1882-09-26 in Gil Blas -->
+		<itemref idref="an-old-man.xhtml"/>
 		<!-- Un parricide, 1882-09-25 in Le Gaulois -->
 		<itemref idref="a-parricide.xhtml"/>
 		<!-- Pierrot, 1882-10-09 in Le Gaulois -->
@@ -660,6 +669,8 @@
 		<itemref idref="queen-hortense.xhtml"/>
 		<!-- En voyage, 1883-05-10 in Gil Blas -->
 		<itemref idref="on-the-journey.xhtml"/>
+		<!-- Une surprise, 1883-05-15 in Gil Blas -->
+		<itemref idref="a-surprise.xhtml"/>
 		<!-- Le père Milon, 1883-05-22 in Le Gaulois -->
 		<itemref idref="old-milon.xhtml"/>
 		<!-- Le pain maudit, 1883-05-29 in Gil Blas -->
@@ -836,6 +847,8 @@
 		<itemref idref="the-dowry.xhtml"/>
 		<!-- Mohammed-Fripouille, 1884-09-20 in Le Gaulois -->
 		<itemref idref="mohammed-fripouille.xhtml"/>
+		<!-- Le legs, 1884-09-23 in Gil Blas -->
+		<itemref idref="the-legacy-2.xhtml"/>
 		<!-- Le garde, 1884-10-08 in Le Gaulois -->
 		<itemref idref="the-keeper.xhtml"/>
 		<!-- Berthe, 1884-10-20 in Le Figaro -->
@@ -866,6 +879,8 @@
 		<itemref idref="blue-and-white.xhtml"/>
 		<!-- Nos anglais, 1885-02-10 in Gil Blas -->
 		<itemref idref="our-friends-the-english.xhtml"/>
+		<!-- Lettre d'un fou, 1885-02-17 in Gil Blas -->
+		<itemref idref="letter-from-a-madman.xhtml"/>
 		<!-- Le père Mongilet, 1885-02-24 in Gil Blas -->
 		<itemref idref="old-mongilet.xhtml"/>
 		<!-- Le moyen de Roger, 1885-03-03 in Gil Blas -->
