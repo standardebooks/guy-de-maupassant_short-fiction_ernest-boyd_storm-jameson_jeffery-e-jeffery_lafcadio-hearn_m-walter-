@@ -486,10 +486,10 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<!-- Le docteur Héraclius Gloss, 1921-11-15 - 1921-12-01 in La Revue de Paris (written in 1875) -->
-		<itemref idref="doctor-heraclius-gloss.xhtml"/>
 		<!-- La main d’écorché, 1875 in L’Almanach lorrain de Pont-à-Mousson -->
 		<itemref idref="the-dead-hand.xhtml"/>
+		<!-- Le docteur Héraclius Gloss, 1921-11-15 - 1921-12-01 in La Revue de Paris (written in 1875) -->
+		<itemref idref="doctor-heraclius-gloss.xhtml"/>
 		<!-- Sur l’eau, 1876-03-10 (as “En Canot”) in Le Bulletin Français -->
 		<itemref idref="on-the-river.xhtml"/>
 		<!-- Le donneur d’eau bénite, 1877-11-10 in La Mosaïque -->
@@ -1038,10 +1038,10 @@
 		<itemref idref="who-knows.xhtml"/>
 		<!-- Les tombales, 1891-01-09 in Gil Blas -->
 		<itemref idref="graveyard-sirens.xhtml"/>
+		<!-- Après, 1900 in Le colporteur (written in 1891) -->
+		<itemref idref="after.xhtml"/>
 		<!-- Le colporteur, 1893-03-08 in Le Figaro -->
 		<itemref idref="the-pedlar.xhtml"/>
-		<!-- Après, 1900 in Le colporteur -->
-		<itemref idref="after.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
