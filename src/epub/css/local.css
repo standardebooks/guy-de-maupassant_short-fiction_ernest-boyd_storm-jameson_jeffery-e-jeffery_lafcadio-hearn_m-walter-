@@ -202,7 +202,6 @@ header p[epub|type~="z3998:salutation"]{
 }
 
 #madame-hussons-may-king table td:first-child{
-	column-width: 10em;
 	hanging-punctuation: first;
 }
 
