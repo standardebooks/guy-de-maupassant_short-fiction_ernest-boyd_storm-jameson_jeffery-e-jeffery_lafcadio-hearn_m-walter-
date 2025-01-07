@@ -35,6 +35,10 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
 /* end of letters */
 
 /* plays/drama */
@@ -187,7 +191,7 @@ header p[epub|type~="z3998:salutation"]{
 	text-align: initial;
 }
 
-/* location-specific */
+/* custom */
 #a-divorce-case blockquote header{
 	font-style: italic;
 	margin-bottom: 1em;
@@ -259,3 +263,4 @@ header p[epub|type~="z3998:salutation"]{
 #the-revenge-chapter-1 p:nth-of-type(2){
 	text-indent: 0;
 }
+/* end of custom */
